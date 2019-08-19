@@ -383,6 +383,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xA2881A90Bf33F03E7a3f803765Cd2ED5c8928dFb'
     },
+    '0x8AedB297FED4b6884b808ee61fAf0837713670d0': {
+      [NAME]: 'Wrapped MarbleCards',
+      [SYMBOL]: 'WMC',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0xA0db39d28dACeC1974f2a1F6Bac7d33F37C102eC'
+    },
     '0xB4272071eCAdd69d933AdcD19cA99fe80664fc08': {
       [NAME]: 'CryptoFranc',
       [SYMBOL]: 'XCHF',
